@@ -12,13 +12,13 @@
 
 <!--Banner session-->
 <p align="center">
-  <img src="./src/assets/readme/banner.png" alt="DIO" title="Digital Innovation One">
+![image](https://user-images.githubusercontent.com/1089556/149411434-56d3c37b-68d9-4f8d-ac24-03b949db7cc7.png)
 </p>
 
 <!--About session-->
 <h1 align="center">Criando a interface do iFood com React Native<br>Digital Innovation One</h1>
 
-<img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
+![image](https://user-images.githubusercontent.com/1089556/149411460-80fe8545-90da-4c79-ac3f-0116ad75089f.png)
 
 Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
@@ -40,4 +40,4 @@ Nesse projeto você irá criar a interface inicial do aplicativo iFood, com a li
 - Este projeto está sob a licença [MIT](./LICENSE).
 
 <!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
+<br>

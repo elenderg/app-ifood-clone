@@ -12,13 +12,13 @@
 
 <!--Banner session-->
 <p align="center">
-![image](https://user-images.githubusercontent.com/1089556/149411434-56d3c37b-68d9-4f8d-ac24-03b949db7cc7.png)
+  <img src=https://user-images.githubusercontent.com/1089556/149411434-56d3c37b-68d9-4f8d-ac24-03b949db7cc7.png>
 </p>
 
 <!--About session-->
 <h1 align="center">Criando a interface do iFood com React Native<br>Digital Innovation One</h1>
 
-![image](https://user-images.githubusercontent.com/1089556/149411460-80fe8545-90da-4c79-ac3f-0116ad75089f.png)
+<img src="https://user-images.githubusercontent.com/1089556/149411460-80fe8545-90da-4c79-ac3f-0116ad75089f.png" width="70" height="70">
 
 Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
